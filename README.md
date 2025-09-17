@@ -48,8 +48,7 @@ The schema is designed with **normalization principles** to reduce redundancy, e
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-db.git
-cd ecommerce-db
+git clone https://github.com/salimuhamisi/ecommerce-db.git
 
 
 EXECUTIONS
